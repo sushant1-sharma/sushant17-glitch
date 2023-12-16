@@ -16,6 +16,7 @@ Tech Stack
     🔧   Visual Studio code | IntelliJ Idea | Git | Bitbucket | Jenkins | Jira | ArgoCD | Docker
 
 
-🤝🏻 Connect with me on Linked ON
+🤝🏻 Connect with me on Linked ON  
+          MY LINKEDIN
 
   
