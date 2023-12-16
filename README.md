@@ -13,7 +13,9 @@
 ✍️    I also work on Automation Testing and I have automated 1000 + Test Cases( Front End + Backend )
 
 
+
 Tech Stack
+
 💻   JavaScript | Java
 
 🌐   ReactJs | NodeJs | ExpressJs | AWS | Automation Testing using Appium and Cucumber(Rest Assured)
