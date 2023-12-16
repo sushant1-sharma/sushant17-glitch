@@ -10,10 +10,10 @@
 
 Tech Stack
 
-   💻   JavaScript | Java
-   🌐   ReactJs | NodeJs | ExpressJs | AWS | Automation Testing using Appium and Cucumber(Rest Assured)
-   🛢   MySQL | MongoDB
-   🔧   Visual Studio code | IntelliJ Idea | Git | Bitbucket | Jenkins | Jira | ArgoCD | Docker
+    💻   JavaScript | Java
+    🌐   ReactJs | NodeJs | ExpressJs | AWS | Automation Testing using Appium and Cucumber(Rest Assured)
+    🛢   MySQL | MongoDB
+    🔧   Visual Studio code | IntelliJ Idea | Git | Bitbucket | Jenkins | Jira | ArgoCD | Docker
 
 
 🤝🏻 Connect with me on Linked ON
