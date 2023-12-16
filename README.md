@@ -17,6 +17,7 @@ Tech Stack
 
 
 🤝🏻 Connect with me on Linked ON  
-          MY LINKEDIN
+
+        https://www.linkedin.com/in/sushant-sharma-684a071bb/
 
   
